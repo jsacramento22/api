@@ -1,0 +1,15 @@
+{
+    "dev": {
+        "app_function": "app.app",
+        "aws_region": "sa-east-1",
+        "profile_name": "default",
+        "project_name": "api-myidigital",
+        "runtime": "python3.7",
+        "s3_bucket": "zappa-s8hgln3yk",
+        "environment_variables": {
+            "ENV": "DEV",
+            "ELASTIC_SERVER": "52.201.217.0"
+        },
+        "exclude": [".env"]
+    }
+}

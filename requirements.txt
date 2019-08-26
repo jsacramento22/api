@@ -1,0 +1,7 @@
+elasticsearch==7.0.2
+Flask==1.0.3
+runenv==1.0.1
+zappa==0.48.2
+flake8==3.7.7
+flask-cors==3.0.8
+slackclient==2.1.0
