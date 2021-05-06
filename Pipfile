@@ -12,7 +12,7 @@ zappa = "==0.48.2"
 flake8 = "==3.7.7"
 slackclient = "==2.1.0"
 Flask = "==1.0.3"
-Flask-Cors = "==3.0.8"
+Flask-Cors = "==3.0.9"
 
 [requires]
 python_version = "3.7"
